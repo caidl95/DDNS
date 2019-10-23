@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: commons-codec-1.11.jar stax-api-1.0-2.jar httpclient-4.5.9
+ .jar aliyun-java-sdk-alidns-2.0.10.jar gson-2.8.5.jar slf4j-api-1.7.2
+ 6.jar jaxb-api-2.1.jar org.jacoco.agent-0.8.3-runtime.jar activation-
+ 1.1.jar httpcore-4.4.11.jar aliyun-java-sdk-core-4.4.3.jar ini4j-0.5.
+ 4.jar commons-logging-1.2.jar
+Main-Class: Start
+
